@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭Full Stack Web Developer.<br>🤝 passion for creating dynamic, user-friendly web applications.<br>🌱 I’m currently learning MERN stack.
+🔭Full Stack Web Developer.<br>🤝 MERN-Stack
 
 
 
